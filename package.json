@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "bookshelf": "^0.13.3",
-    "config": "^2.0.1",
+    "config": "^3.3.8",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
